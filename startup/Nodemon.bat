@@ -1,2 +1,2 @@
-cd C:\Users\%username%\Desktop\Danske\NumberPlates\NodeJS
+cd C:\Users\%username%\Desktop\Danske\NumberPlatesApp\NodeJS
 nodemon index.js
